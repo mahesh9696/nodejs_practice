@@ -12,3 +12,5 @@ webpack
 gulp
 grunt
 Browserify
+
+C:\Users\mmahe\AppData\Roaming\npm\browserify server.js -o bundle.js
