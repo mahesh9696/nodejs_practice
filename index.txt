@@ -15,3 +15,5 @@ Browserify
 
 C:\Users\mmahe\AppData\Roaming\npm\browserify server.js -o bundle.js
 npm list -g --depth=0.
+
+https://www.monterail.com/blog/nodejs-development-enterprises#:~:text=The%20most%20important%20advantages%20of,the%20client%20and%20server%20side
