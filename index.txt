@@ -5,3 +5,5 @@ https://code.visualstudio.com/docs/nodejs/nodejs-tutorial
 var environment = process.env.NODE_ENV
 
 set NODE_ENV=production in window
+
+https://stackoverflow.com/questions/44766304/bundle-node-js-backend-good-practice-or-bad-practice
