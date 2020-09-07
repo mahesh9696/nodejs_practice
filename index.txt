@@ -14,4 +14,4 @@ grunt
 Browserify
 
 C:\Users\mmahe\AppData\Roaming\npm\browserify server.js -o bundle.js
-npm list --depth=0
+npm list -g --depth=0.
